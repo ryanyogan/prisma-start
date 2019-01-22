@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/ryanyogan/.nvm/versions/node/v10.15.0/bin/node /Users/ryanyogan/.nvm/versions/node/v10.15.0/bin/yarn add prisma-client-li
+
+PATH: 
+  /Users/ryanyogan/flutter/bin:/Users/ryanyogan/.zplug/bin:/Users/ryanyogan/.cargo/bin:/Users/ryanyogan/.nvm/versions/node/v10.15.0/bin:.git/safe/../../bin:/Users/ryanyogan/.rbenv/shims:/Users/ryanyogan/.bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/ryanyogan/Library/Android/sdk/tools:/Users/ryanyogan/Library/Android/sdk/platform-tools:/usr/local/gradle/bin:/Users/ryanyogan/dev/gocode/bin:/Users/ryanyogan/kafka_2.12-2.0.0/bin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  10.15.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/prisma-client-li: Not found
+      at Request.params.callback [as _callback] (/Users/ryanyogan/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:65894:18)
+      at Request.self.callback (/Users/ryanyogan/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:129018:22)
+      at Request.emit (events.js:182:13)
+      at Request.<anonymous> (/Users/ryanyogan/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:129990:10)
+      at Request.emit (events.js:182:13)
+      at IncomingMessage.<anonymous> (/Users/ryanyogan/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:129912:12)
+      at Object.onceWrapper (events.js:273:13)
+      at IncomingMessage.emit (events.js:187:15)
+      at endReadableNT (_stream_readable.js:1094:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
